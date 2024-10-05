@@ -1,9 +1,20 @@
-### Explicação:
+# Projeto Anna Bella
 
-- O `README.md` começa com uma descrição clara do projeto, seguida pela estrutura de diretórios e arquivos.
-- As diferentes páginas do site são explicadas com uma breve descrição de suas funções.
-- Há instruções sobre como clonar o repositório e visualizar o site.
-- A seção "Possíveis Melhorias" sugere o que pode ser feito para aprimorar o projeto.
-- O arquivo termina com uma seção de licença e uma menção ao autor. 
+Este é o projeto **Anna Bella**, um website estático que apresenta informações sobre Anna Bella, incluindo sua biografia, campanhas publicitárias e informações de contato. O site é composto por páginas HTML estilizadas com CSS.
 
-Este modelo pode ser adaptado conforme você for desenvolvendo mais recursos no projeto.
+## Estrutura do Projeto
+
+O projeto está organizado da seguinte forma:
+
+```bash
+/
+|-- index.html
+|-- biografia.html
+|-- campanhas-publicitarias.html
+|-- contato.html
+|-- estilo.css
+|-- imagens/
+    |-- capa.png
+    |-- foto1.png
+    |-- foto2.png
+    |-- foto3.png
